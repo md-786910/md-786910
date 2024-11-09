@@ -17,7 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=md-786910&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut) -->
 
 <a href="https://github.com/md-786910/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=md-786910&theme=dark&hide_border=true&include_all_commits=true&count_private=true&card_width=520" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=md-786910&theme=dark&hide_border=true&include_all_commits=true&count_private=true&card_width=480" />
 </a>
 <a href="https://github.com/md-786910/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-786910&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut&card_width=320" />
