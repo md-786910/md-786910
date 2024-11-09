@@ -12,9 +12,19 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=md-786910&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=md-786910&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=md-786910&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=md-786910&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=md-786910&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=md-786910&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut) -->
+
+<a href="https://github.com/md-786910/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=md-786910&theme=dark&hide_border=true&include_all_commits=true&count_private=true&card_width=420" />
+</a>
+<a href="https://github.com/md-786910/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-786910&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut&card_width=320" />
+</a>
+<a href="https://github.com/md-786910/convoychat">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-786910&theme=dark&layout=donut&&hide_border=true&langs_count=8&card_width=920" />
+</a>
 
 ## 🏆 GitHub Trophies
 
